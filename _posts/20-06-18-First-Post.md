@@ -1,3 +1,9 @@
+---
+layout: post
+mathjax: true
+title: Analyzing Amazon Reviews
+---
+
 ## Analyzing Amazon Reviews
 
 #### How to employ Data Science to determine the authenticity of amazon reviews.
